@@ -9,7 +9,7 @@ ul.drop-down-menu {
 /*         border: double; */
     display: inline-block;
     font-size: 17px;
-  font-family:DFKai-sb;
+    font-family: 'Noto Sans TC', sans-serif;
   font-weight:bold;
 }
 
