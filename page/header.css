@@ -9,7 +9,7 @@ ul.drop-down-menu {
 /*         border: double; */
     display: inline-block;
     font-size: 30px;
-  font-family:DFKai-sb;
+    font-family: 'Noto Sans TC', sans-serif;
   font-weight:bold;
 }
 
@@ -29,7 +29,7 @@ ul.drop-down-menu > li {
 }
 
  ul.drop-down-menu a {
-    background-color: 	#97CBFF;
+    background-color: 	#FFCC99;
     color: #000000;
     display: block;
     padding: 0 30px;
@@ -38,11 +38,11 @@ ul.drop-down-menu > li {
 
 }
 ul.drop-down-menu a:hover { /* 滑鼠滑入按鈕變色*/
-    background-color: 	#46A3FF;
+    background-color: 	#FFCCCC;
     color: #000000;
 }
 ul.drop-down-menu li:hover > a { /* 滑鼠移入次選單上層按鈕保持變色*/
-    background-color:	#46A3FF;
+    background-color:	#FFCCCC;
     color: #000000;
 }
 ul.drop-down-menu ul {
